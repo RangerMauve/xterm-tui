@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# Screw package locks
+package-lock.json
+
+# Don't commit bundles!
+bundle.js
