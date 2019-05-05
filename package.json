@@ -1,6 +1,6 @@
 {
   "name": "xterm-tui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Attach graphics to an xterm.js terminal using neo-blessed",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "url": "git+https://github.com/RangerMauve/xterm-tui.git"
   },
   "files": [
-    "./index.js",
-    "./bundle.js",
+    "index.js",
+    "bundle.js",
     "README.md",
     "LICENSE"
   ],
